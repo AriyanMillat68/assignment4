@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: aquamarine;
+    height: 100px;
+    color: black;
+    text-align: center;
+}
+.main_part{
+display: flex;
+}
+.main_content{
+background-color: chartreuse;
+width: 33.33%;
+height: 600px;
+color: black;
+text-align: center;
+}
+.navigation{
+background-color: darkred;
+width: 33.33%;
+height: 450px;
+color: aqua;
+text-align: center;
+}
+.add_stuff{
+background-color: gold;
+width: 33.33%;
+height: 300px;
+color: blue;
+text-align: center;
+}
+footer{
+    background-color: black;
+    height: 100px;
+    color: khaki;
+    text-align: center;
+    margin-top: 2%;
+}
